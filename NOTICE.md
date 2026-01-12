@@ -1,11 +1,12 @@
 NOTICE
 
-Copyright © 2026 Gopal Krushna Mahapatra
+This project is a proprietary academic and engineering work.
 
-All images, photographs, circuit diagrams, project reports, and documentation
-files included in this repository (except source code files) are protected.
+The repository is made publicly accessible only to demonstrate embedded
+system design, renewable energy automation concepts, and technical
+implementation quality.
 
-Permission is NOT granted to reuse, copy, modify, or redistribute these visual
-or documentation assets without explicit written consent from the author.
-
-This restriction applies even if the source code is reused under the MIT License.
+No license or permission is granted to reuse, copy, modify, or redistribute
+any source code, hardware design, circuit schematic, image, or documentation
+contained in this repository without explicit written authorization
+from the author.
