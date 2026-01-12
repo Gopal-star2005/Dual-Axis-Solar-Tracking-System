@@ -91,10 +91,6 @@ The system is intentionally designed to be **low-cost, modular, and educational*
 
 ---
 
-## 📂 Repository Structure
-
----
-
 ## ⚙️ Installation & Setup
 1.
 ```bash
