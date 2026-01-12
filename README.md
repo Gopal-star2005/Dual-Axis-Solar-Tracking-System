@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<your-username>/Arduino-Dual-Axis-Solar-Tracking-System/main/assets/banner.svg" alt="Dual Axis Solar Tracking System Banner" />
+  <img src="https://raw.githubusercontent.com/Gopal-star2005/Dual-Axis-Solar-Tracking-System/main/assets/banner.svg" alt="Dual Axis Solar Tracking System Banner" />
 </p>
 
 # ☀️ Arduino-Based Dual Axis Solar Tracking System  
